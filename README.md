@@ -83,3 +83,23 @@ contract KaseiCoinCrowdsaleDeployer {
     }
 }
 ```
+
+### result of crowdsale ( not including optional part)
+#### deploy the contract
+![](https://github.com/bleachevil/AL-Homework/blob/main/pic/1.png?raw=true)
+
+#### result of deploy
+![](https://github.com/bleachevil/AL-Homework/blob/main/pic/2.png?raw=true)
+
+#### add crowdsale
+![](https://github.com/bleachevil/AL-Homework/blob/main/pic/3.png?raw=true)
+
+#### add token
+![](https://github.com/bleachevil/AL-Homework/blob/main/pic/4.png?raw=true)
+
+#### buy token
+![](https://github.com/bleachevil/AL-Homework/blob/main/pic/5.png?raw=true)
+
+#### result of supply
+![](https://github.com/bleachevil/AL-Homework/blob/main/pic/6.png?raw=true)
+
